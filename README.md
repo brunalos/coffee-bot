@@ -30,7 +30,7 @@ Before getting started with Coffee Bot, ensure you have the following in place:
 
 5. **Configure Bot Token:**
    - Rename `.env.example` to `.env`.
-   - Open `.env` and replace `YOUR_BOT_TOKEN` with the actual token obtained from BotFather.
+   - Open `.env` and replace `your_token_here` with the actual token obtained from BotFather.
 
 6. **Run the Bot:**
    ```bash
