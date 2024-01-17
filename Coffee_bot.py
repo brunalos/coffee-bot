@@ -2,7 +2,7 @@
 
 from dotenv import dotenv_values
 import logging
-from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove, Update
+from telegram import ReplyKeyboardRemove, Update
 from telegram.ext import (
     Application,
     CommandHandler,
