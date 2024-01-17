@@ -4,12 +4,7 @@
 
 Coffee Bot (@strembucks_bot) is a Telegram bot designed to streamline your coffee preferences. 
 
-## Files
-
-- **Coffee_bot.py**: The main script for the Telegram bot.
-- **.env.example**: Example file for retrieving your bot token. Please rename it to `.env` and fill in the necessary information.
-
-## Prerequisites
+## Installation and Setup
 
 Before getting started with Coffee Bot, ensure you have the following in place:
 
@@ -22,28 +17,11 @@ Before getting started with Coffee Bot, ensure you have the following in place:
      - `dotenv` (version 1.0.0)
      - `python-telegram-bot` (version 20.7)
 
-## Installation and Setup
-
-1. **Clone the Repository:**
+3. **Clone the Repository:**
    ```bash
    git clone https://github.com/your_username/coffee-bot.git
    cd coffee-bot
    ```
-
-2. **Create Virtual Environment:**
-   ```bash
-   python -m venv venv
-   ```
-
-3. **Activate Virtual Environment:**
-   - On Windows:
-     ```bash
-     venv\Scripts\activate
-     ```
-   - On Unix or MacOS:
-     ```bash
-     source venv/bin/activate
-     ```
 
 4. **Install Dependencies:**
    ```bash
